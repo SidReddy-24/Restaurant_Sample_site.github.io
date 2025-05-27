@@ -2,6 +2,8 @@
 
 # Restro'Heaven 🍽️
 
+NOTE -> the images are from web, these arent downloaded locally, so if you cant see any images then it means the images has been took down from the web and please do change the images according to you yourself.
+
 **A modern, responsive multi-page restaurant website built using HTML & CSS.**  
 Welcome to **Restro'Heaven**, your digital gateway to a world of flavors. This project showcases a polished UI for a fictional restaurant with elegant design, smooth navigation, and a user-friendly layout.
 
